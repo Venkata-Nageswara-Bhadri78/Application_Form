@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+		<servlet-name>n</servlet-name>
+		<servlet-class>Apply_College</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>n</servlet-name>
+		<url-pattern>/app</url-pattern>
+	</servlet-mapping>
+</web-app>
